@@ -90,15 +90,15 @@ My research and engineering interests include:
 ## Programming Languages
 
 <p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+---
 
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+## Development Tools
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" />
 </p>
 
 ---
@@ -107,31 +107,13 @@ My research and engineering interests include:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gazebo-FF8C00?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/GNU_Radio-005CED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GNU%20Radio-005CED?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-</p>
-
----
-
-## Development Tools
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
 
 </p>
 
@@ -141,23 +123,21 @@ My research and engineering interests include:
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=matlab" height="48"/>
 
-<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/ANSYS_HFSS-FFB000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ANSYS%20HFSS-FFB000?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/LTspice-B22222?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LTspice-B22222?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Proteus-1E88E5?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=latex" height="48"/>
 
 </p>
-
----
 
 # 🏗 Featured Projects
 
