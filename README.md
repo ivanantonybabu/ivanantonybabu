@@ -90,56 +90,26 @@ My research and engineering interests include:
 ## Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java"/>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java" />
 </p>
 
 ---
 
-## Operating Systems
+## Skill Set 1
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash"/>
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,arduino,ros,matlab,latex" />
 </p>
 
 ---
 
-## AI & Computer Vision
+## Skill Set 2
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow"/>
-</p>
-
----
-
-## Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql"/>
-</p>
-
----
-
-## Robotics & Embedded
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/GNU%20Radio-005CED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
-
-</p>
-
----
-
-## Engineering Software
-
-<p align="left">
 
 <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
 
@@ -151,7 +121,7 @@ My research and engineering interests include:
 
 <img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=matlab,latex"/>
+<img src="https://img.shields.io/badge/MS%20Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
 
 </p>
 
