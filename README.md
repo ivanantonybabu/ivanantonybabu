@@ -7,21 +7,21 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-CUSAT%20B.Tech%20ECE%20%7C%208.66%20CGPA-4B0082?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Badge CUSAT" />[cite: 4]
-  <img src="https://img.shields.io/badge/Education-IIT%20Madras%20B.Sc%20DS%20%7C%208.33%20CGPA-6366F1?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge IITM" />[cite: 4]
-  <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-6366F1?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />[cite: 4]
+  <img src="https://img.shields.io/badge/Education-CUSAT%20B.Tech%20ECE%20%7C%208.66%20CGPA-4B0082?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Badge CUSAT" />
+  <img src="https://img.shields.io/badge/Education-IIT%20Madras%20B.Sc%20DS%20%7C%208.33%20CGPA-6366F1?style=flat-square&logo=academia&logoColor=white" alt="Academic Badge IITM" />
+  <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-6366F1?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/Ivanantonybabu">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>[cite: 4]
+  </a>
   <a href="mailto:ivanantonybabu@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>[cite: 4]
+  </a>
   <a href="https://github.com/ivanantonybabu">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>[cite: 4]
+  </a>
 </p>
 
 <p align="center">
@@ -34,11 +34,11 @@
 
 ## 2. About Section
 
-Robotics and Embedded Systems Engineer pursuing a B.Tech in Electronics and Communications Engineering at Cochin University of Science and Technology (CUSAT) coupled with a B.Sc in Data Science and Applications from the Indian Institute of Technology (IIT) Madras[cite: 4]. Passionate about UAV engineering, software-defined communication, and multi-sensor autonomous localization models[cite: 4].
+Robotics and Embedded Systems Engineer pursuing a B.Tech in Electronics and Communications Engineering at Cochin University of Science and Technology (CUSAT) coupled with a B.Sc in Data Science and Applications from the Indian Institute of Technology (IIT) Madras. Passionate about UAV engineering, software-defined communication, and multi-sensor autonomous localization models.
 
-* **Autonomous Navigation & SLAM:** Architecting real-time, low-cost localization loops using multi-sensor fusion, IMU filters, and Visual-Inertial SLAM pipelines on edge hardware[cite: 4].
-* **Software-Defined Radio:** Constructing physical-layer communication transceivers, adaptive digital filtering blocks, and noise-jamming mitigation schemes using GNU Radio and USRP hardware[cite: 4].
-* **Embedded & Product Engineering:** Merging microcontrollers, edge AI tracking configurations (EAR/facial landmarks), and secure web deployments for production-ready IoT systems[cite: 4].
+* **Autonomous Navigation & SLAM:** Architecting real-time, low-cost localization loops using multi-sensor fusion, IMU filters, and Visual-Inertial SLAM pipelines on edge hardware.
+* **Software-Defined Radio:** Constructing physical-layer communication transceivers, adaptive digital filtering blocks, and noise-jamming mitigation schemes using GNU Radio and USRP hardware.
+* **Embedded & Product Engineering:** Merging microcontrollers, edge AI tracking configurations (EAR/facial landmarks), and secure web deployments for production-ready IoT systems.
 
 > ### 🚀 Open To
 > Core Embedded Engineering Internships, R&D in Autonomous Flight & Robotics Systems, Open-Source Firmware Contributions, and Core Hardware-Software Prototyping.
@@ -49,29 +49,29 @@ Robotics and Embedded Systems Engineer pursuing a B.Tech in Electronics and Comm
 
 ### 💻 Languages & OS
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />[cite: 4]
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />[cite: 4]
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />[cite: 4]
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />[cite: 4]
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />[cite: 4]
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
 ### 🤖 Robotics & Signal Processing
 <p align="left">
-  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />[cite: 4]
-  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />[cite: 4]
-  <img src="https://img.shields.io/badge/GNU_Radio-7FBA00?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />[cite: 4]
-  <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />[cite: 4]
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />[cite: 4]
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
+  <img src="https://img.shields.io/badge/GNU_Radio-7FBA00?style=for-the-badge&logo=gnuradio&logoColor=white" alt="GNU Radio" />
+  <img src="https://img.shields.io/badge/MATLAB-ED6B21?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
 
 ### ⚙️ Tools, EDA & Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/KiCad-196E96?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />[cite: 4]
-  <img src="https://img.shields.io/badge/SolidWorks-DC3545?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />[cite: 4]
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />[cite: 4]
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />[cite: 4]
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />[cite: 4]
+  <img src="https://img.shields.io/badge/KiCad-196E96?style=for-the-badge&logo=kicad&logoColor=white" alt="KiCad" />
+  <img src="https://img.shields.io/badge/SolidWorks-DC3545?style=for-the-badge&logo=dassaultsystemes&logoColor=white" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -80,9 +80,9 @@ Robotics and Embedded Systems Engineer pursuing a B.Tech in Electronics and Comm
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Localization & SLAM** | Advanced | Visual-Inertial SLAM configurations, multi-sensor odometry fusion, and real-time 2D occupancy maps[cite: 4]. |
-| **Signal Processing & RF** | Advanced | Audio-band FSK modems, spectrum sensing routines, and hardware-in-the-loop anti-jamming FM filtering[cite: 4]. |
-| **Embedded Intelligence** | Intermediate | Edge computer vision pipelines, multi-factor RFID/vision tracking, and automated attention analysis[cite: 4]. |
+| **Localization & SLAM** | Advanced | Visual-Inertial SLAM configurations, multi-sensor odometry fusion, and real-time 2D occupancy maps. |
+| **Signal Processing & RF** | Advanced | Audio-band FSK modems, spectrum sensing routines, and hardware-in-the-loop anti-jamming FM filtering. |
+| **Embedded Intelligence** | Intermediate | Edge computer vision pipelines, multi-factor RFID/vision tracking, and automated attention analysis. |
 
 ---
 
@@ -93,18 +93,18 @@ Robotics and Embedded Systems Engineer pursuing a B.Tech in Electronics and Comm
 <br />
 
 ### Visual-Inertial SLAM & Multi-Sensor Fusion
-Developed a low-cost, high-efficiency indoor mapping stack leveraging multi-sensor fusion on resource-limited hardware, tailored specifically for complex GPS-denied environments[cite: 4].
+Developed a low-cost, high-efficiency indoor mapping stack leveraging multi-sensor fusion on resource-limited hardware, tailored specifically for complex GPS-denied environments.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Raspberry Pi 5, ORB-SLAM3, Monocular Camera, IMU, ToF LiDAR, ROS[cite: 4] |
-| **Scale** | Real-time trajectory validation and 2D occupancy map generation[cite: 4] |
-| **Performance** | Multi-sensor integration directly mitigates trajectory accumulation drift[cite: 4] |
-| **Impact** | Published at ICTEST 2026; backed by the IIT Tirupati iHub STAR-PNT Fellowship[cite: 4] |
-| **Repository** | [View Source](https://github.com/ivanantonybabu) |[cite: 4]
+| **Stack** | Raspberry Pi 5, ORB-SLAM3, Monocular Camera, IMU, ToF LiDAR, ROS |
+| **Scale** | Real-time trajectory validation and 2D occupancy map generation |
+| **Performance** | Multi-sensor integration directly mitigates trajectory accumulation drift |
+| **Impact** | Published at ICTEST 2026; backed by the IIT Tirupati iHub STAR-PNT Fellowship |
+| **Repository** | [View Source](https://github.com/ivanantonybabu) |
 
 #### Professional Overview
-By combining visual features with raw data streams from an IMU and Time-of-Flight (ToF) range sensors, the architecture successfully generates reliable spatial representations while hosting interactive tracking paths over localized web deployment frames[cite: 4].
+By combining visual features with raw data streams from an IMU and Time-of-Flight (ToF) range sensors, the architecture successfully generates reliable spatial representations while hosting interactive tracking paths over localized web deployment frames.
 
 </details>
 
@@ -113,18 +113,18 @@ By combining visual features with raw data streams from an IMU and Time-of-Fligh
 <br />
 
 ### Acoustic Software-Defined Transceiver
-Designed and deployed an end-to-end audio-frequency FSK modem using software-defined radio logic blocks to route digital data flawlessly over local ambient space[cite: 4].
+Designed and deployed an end-to-end audio-frequency FSK modem using software-defined radio logic blocks to route digital data flawlessly over local ambient space.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | GNU Radio, Signal Processing (DSP), Python, Acoustic Channels[cite: 4] |
-| **Scale** | Live transceiver loop processing files via physical microphonic setups[cite: 4] |
-| **Performance** | Quadrature demodulation and slicing blocks tuned for variant background room noise[cite: 4] |
-| **Impact** | Validated robust text data routing models under the Department of Electronics, CUSAT[cite: 4] |
-| **Repository** | [View Source](https://github.com/ivanantonybabu) |[cite: 4]
+| **Stack** | GNU Radio, Signal Processing (DSP), Python, Acoustic Channels |
+| **Scale** | Live transceiver loop processing files via physical microphonic setups |
+| **Performance** | Quadrature demodulation and slicing blocks tuned for variant background room noise |
+| **Impact** | Validated robust text data routing models under the Department of Electronics, CUSAT |
+| **Repository** | [View Source](https://github.com/ivanantonybabu) |
 
 #### Professional Overview
-Constructed complete transmitter and receiver flowgraphs encompassing wave modulation, filtering, digital binary conversion, and absolute file reconstruction to maintain signal recovery across a physical acoustic layer[cite: 4].
+Constructed complete transmitter and receiver flowgraphs encompassing wave modulation, filtering, digital binary conversion, and absolute file reconstruction to maintain signal recovery across a physical acoustic layer.
 
 </details>
 
@@ -133,18 +133,18 @@ Constructed complete transmitter and receiver flowgraphs encompassing wave modul
 <br />
 
 ### Full-Duplex Interference Mitigation System
-Engineered an active hardware-in-the-loop Electronic Counter-Countermeasure transceiver framework tasked with preserving signal continuity within compromised radio channels[cite: 4].
+Engineered an active hardware-in-the-loop Electronic Counter-Countermeasure transceiver framework tasked with preserving signal continuity within compromised radio channels.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Ettus B210 USRP, GNU Radio, Narrowband FM (NBFM), Software Filters[cite: 4] |
-| **Scale** | Live radio link evaluating real-time wideband intentional interference[cite: 4] |
-| **Performance** | Selective passband filtering extracts high-clarity voice data beneath intense white noise[cite: 4] |
-| **Impact** | Successfully recovered intelligible speech parameters under high jammer-to-signal margins[cite: 4] |
-| **Repository** | [View Source](https://github.com/ivanantonybabu) |[cite: 4]
+| **Stack** | Ettus B210 USRP, GNU Radio, Narrowband FM (NBFM), Software Filters |
+| **Scale** | Live radio link evaluating real-time wideband intentional interference |
+| **Performance** | Selective passband filtering extracts high-clarity voice data beneath intense white noise |
+| **Impact** | Successfully recovered intelligible speech parameters under high jammer-to-signal margins |
+| **Repository** | [View Source](https://github.com/ivanantonybabu) |
 
 #### Professional Overview
-The platform dynamically tracks the spectral density across radio interfaces, executing targeted software isolation profiles to separate core audio components from intentional active jamming arrays[cite: 4].
+The platform dynamically tracks the spectral density across radio interfaces, executing targeted software isolation profiles to separate core audio components from intentional active jamming arrays.
 
 </details>
 
@@ -153,18 +153,18 @@ The platform dynamically tracks the spectral density across radio interfaces, ex
 <br />
 
 ### Edge Biometric & Attentiveness Analytics
-Engineered a centralized classroom monitoring environment implementing combined biometric processing loop systems alongside edge computer vision analysis[cite: 4].
+Engineered a centralized classroom monitoring environment implementing combined biometric processing loop systems alongside edge computer vision analysis.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | Raspberry Pi 5, ESP8266, RFID, Flask Server, OpenCV, Facial Landmarks[cite: 4] |
-| **Scale** | Production-ready multi-point attendance tracking deployment[cite: 4] |
-| **Performance** | Dual-factor tracking with high-frequency attention estimation loops[cite: 4] |
-| **Impact** | Eradicated manual identity proxies while mapping live focus matrices[cite: 4] |
-| **Repository** | [View Source](https://github.com/ivanantonybabu) |[cite: 4]
+| **Stack** | Raspberry Pi 5, ESP8266, RFID, Flask Server, OpenCV, Facial Landmarks |
+| **Scale** | Production-ready multi-point attendance tracking deployment |
+| **Performance** | Dual-factor tracking with high-frequency attention estimation loops |
+| **Impact** | Eradicated manual identity proxies while mapping live focus matrices |
+| **Repository** | [View Source](https://github.com/ivanantonybabu) |
 
 #### Professional Overview
-Combines distributed RFID terminal hardware verification with real-time face tracking logs[cite: 4]. Uses Eye Aspect Ratio (EAR) processing to estimate alertness distributions on an isolated edge frame, synchronizing metrics securely to a local web server dashboard[cite: 4].
+Combines distributed RFID terminal hardware verification with real-time face tracking logs. Uses Eye Aspect Ratio (EAR) processing to estimate alertness distributions on an isolated edge frame, synchronizing metrics securely to a local web server dashboard.
 
 </details>
 
@@ -173,28 +173,28 @@ Combines distributed RFID terminal hardware verification with real-time face tra
 ## 6. Experience Section
 
 ### **Project Intern** — *IIT Tirupati Navavishkar I-Hub Foundation (IITTNIF)*
-**Jan 2026 – Apr 2026**[cite: 4]
-* Designed and built a custom spatial Indoor Mapping architecture applying ROS and visual SLAM frameworks[cite: 4].
-* Integrated odometry datasets with optical features to support localization across GPS-denied environments[cite: 4].
-* Evaluated sensor matrices to minimize processing latency across low-power microprocessing nodes[cite: 4].
+**Jan 2026 – Apr 2026**
+* Designed and built a custom spatial Indoor Mapping architecture applying ROS and visual SLAM frameworks.
+* Integrated odometry datasets with optical features to support localization across GPS-denied environments.
+* Evaluated sensor matrices to minimize processing latency across low-power microprocessing nodes.
 
-`#ROS` `#SLAM` `#Sensor-Fusion` `#Raspberry-Pi` `#Autonomous-Systems`[cite: 4]
+`#ROS` `#SLAM` `#Sensor-Fusion` `#Raspberry-Pi` `#Autonomous-Systems`
 
 ### **Summer Intern** — *Department of Electronics, CUSAT*
-**Jun 2026**[cite: 4]
-* Executed intensive hands-on lab deployments involving Software-Defined Radio platforms and digital spectrum analysis[cite: 4].
-* Coded spectrum sensing routines in GNU Radio using real-world RTL-SDR and Ettus USRP transceivers[cite: 4].
-* Configured digital filtration chains to isolate and reconstruct clean signals from noisy RF spectrum loops[cite: 4].
+**Jun 2026**
+* Executed intensive hands-on lab deployments involving Software-Defined Radio platforms and digital spectrum analysis.
+* Coded spectrum sensing routines in GNU Radio using real-world RTL-SDR and Ettus USRP transceivers.
+* Configured digital filtration chains to isolate and reconstruct clean signals from noisy RF spectrum loops.
 
-`#GNU-Radio` `#RTL-SDR` `#USRP` `#Signal-Processing` `#Wireless-Transmission`[cite: 4]
+`#GNU-Radio` `#RTL-SDR` `#USRP` `#Signal-Processing` `#Wireless-Transmission`
 
 ### **Summer Intern** — *Kerala State Electronics Development Corporation (KELTRON)*
-**May 2024**[cite: 4]
-* Built and engineered a desktop Library Management System using modular Python scripting and structured SQL schemas[cite: 4].
-* Engineered stable GUI structures with Tkinter to manage multi-point data modifications and relational operations[cite: 4].
-* Formulated optimal query layouts, minimizing database indexing overhead for quick asset identification[cite: 4].
+**May 2024**
+* Built and engineered a desktop Library Management System using modular Python scripting and structured SQL schemas.
+* Engineered stable GUI structures with Tkinter to manage multi-point data modifications and relational operations.
+* Formulated optimal query layouts, minimizing database indexing overhead for quick asset identification.
 
-`#Python` `#SQL` `#Tkinter` `#Software-Design` `#Database-Management`[cite: 4]
+`#Python` `#SQL` `#Tkinter` `#Software-Design` `#Database-Management`
 
 ---
 
@@ -204,12 +204,12 @@ Combines distributed RFID terminal hardware verification with real-time face tra
 
 | Recognition | Details |
 | :--- | :--- |
-| **🏅 iHub STAR-PNT Fellowship** | Awarded by IIT Tirupati for innovative R&D within spatial Indoor Mapping frameworks[cite: 4]. |
-| **🥇 Top 1% National Rank** | Secured a top 1% elite placement across India in NPTEL's Computer Architecture course by IIT Kharagpur[cite: 4]. |
-| **🌍 World Rank 15 & Kerala Rank 1** | Commanded tactical technical development for Team AROHA at the International Space Drone Challenge[cite: 4]. |
-| **🇮🇳 All India Rank 9 & Kerala Rank 1** | Placed in the elite top tier at the flagship national SAE India Aero_THON UAV competition[cite: 4]. |
-| **🥉 3rd Place — Ideathon** | Achieved podium finishes for an automated AI-driven multi-spectral drone farming framework[cite: 4]. |
-| **🏆 Science Olympiad Topper** | Earned school topper distinctions consecutively across national cycles (2020, 2022)[cite: 4]. |
+| **🏅 iHub STAR-PNT Fellowship** | Awarded by IIT Tirupati for innovative R&D within spatial Indoor Mapping frameworks. |
+| **🥇 Top 1% National Rank** | Secured a top 1% elite placement across India in NPTEL's Computer Architecture course by IIT Kharagpur. |
+| **🌍 World Rank 15 & Kerala Rank 1** | Commanded tactical technical development for Team AROHA at the International Space Drone Challenge. |
+| **🇮🇳 All India Rank 9 & Kerala Rank 1** | Placed in the elite top tier at the flagship national SAE India Aero_THON UAV competition. |
+| **🥉 3rd Place — Ideathon** | Achieved podium finishes for an automated AI-driven multi-spectral drone farming framework. |
+| **🏆 Science Olympiad Topper** | Earned school topper distinctions consecutively across national cycles (2020, 2022). |
 
 </div>
 
@@ -261,9 +261,8 @@ learning:
   - Multi-Agent SLAM systems and cooperative trajectory anchors
   - Advanced embedded firmware architectures for PX4 integration
 building:
-  - High-throughput ROS2 control nodes for autonomous flight sweeps[cite: 4]
-  - Adaptive filtering blocks for multi-channel communication pipelines[cite: 4]
+  - High-throughput ROS2 control nodes for autonomous flight sweeps
 exploring:
-  - Hardware-accelerated DSP models for electronic warfare mitigation[cite: 4]
+  - Hardware-accelerated DSP models for electronic warfare mitigation
 open_to:
-  - Embedded systems internships, autonomous vehicles R&D, and hardware prototyping[cite: 4]
+  - Embedded systems internships, autonomous vehicles R&D, and hardware prototyping
