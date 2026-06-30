@@ -87,43 +87,31 @@ My research and engineering interests include:
 
 # 💻 Tech Stack
 
-## Programming Languages
+### Languages
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java" />
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
 </p>
 
----
+### Development
 
-## Operating Systems
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash" />
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,bash"/>
 </p>
 
----
+### Robotics & Embedded
 
-## Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
+<p>
+<img src="https://skillicons.dev/icons?i=arduino,ros,gazebo,gnuradio"/>
 </p>
 
----
+### Engineering Software
 
-## Robotics & Embedded
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ros,gazebo,gnuradio" />
+<p>
+<img src="https://skillicons.dev/icons?i=kicad,solidworks,matlab,latex,ansys,ltspice,proteus"/>
 </p>
 
----
 
-## Engineering Software
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=kicad,solidworks,matlab,latex,ansys,ltspice,proteus" />
-</p>
 # 🏗 Featured Projects
 
 <details open>
