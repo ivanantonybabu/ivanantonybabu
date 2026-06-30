@@ -87,63 +87,69 @@ My research and engineering interests include:
 
 # 💻 Tech Stack
 
-### Programming Languages
+## Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=py,cpp,c,java"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java"/>
 </p>
 
 ---
 
-### Operating Systems
+## Operating Systems
 
-<p>
-<img src="https://skillicons.dev/icons?i=linux,windows,bash"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash"/>
 </p>
 
 ---
 
-### AI & Computer Vision
+## AI & Computer Vision
 
-<p>
-<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow"/>
 </p>
 
 ---
 
-### Robotics & Embedded
+## Development Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql"/>
 </p>
 
 ---
 
-### Development Tools
+## Robotics & Embedded
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql"/>
+<p align="left">
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GNU%20Radio-005CED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+
 </p>
 
 ---
 
-### Engineering Software
+## Engineering Software
 
-<p>
+<p align="left">
 
-<img height="45" src="https://img.shields.io/badge/Gazebo-F28C28?style=flat-square"/>
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
 
-<img height="45" src="https://img.shields.io/badge/GNU%20Radio-005CED?style=flat-square"/>
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
 
-<img height="45" src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ANSYS%20HFSS-FFB000?style=for-the-badge"/>
 
-<img height="45" src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
+<img src="https://img.shields.io/badge/LTspice-B22222?style=for-the-badge"/>
 
-<img height="45" src="https://img.shields.io/badge/ANSYS%20HFSS-FFB000?style=flat-square"/>
-
-<img height="45" src="https://img.shields.io/badge/LTspice-B22222?style=flat-square"/>
-
-<img height="45" src="https://img.shields.io/badge/Proteus-1E88E5?style=flat-square"/>
+<img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge"/>
 
 <img src="https://skillicons.dev/icons?i=matlab,latex"/>
 
