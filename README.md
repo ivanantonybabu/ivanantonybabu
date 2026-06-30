@@ -95,10 +95,18 @@ My research and engineering interests include:
 
 ---
 
+## Operating Systems
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash" />
+</p>
+
+---
+
 ## Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,arduino" />
 </p>
 
 ---
@@ -106,15 +114,7 @@ My research and engineering interests include:
 ## Robotics & Embedded
 
 <p align="left">
-
-<img src="https://img.shields.io/badge/ROS-22314E?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Gazebo-FF8C00?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/GNU%20Radio-005CED?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=ros,gazebo,gnuradio" />
 </p>
 
 ---
@@ -122,23 +122,8 @@ My research and engineering interests include:
 ## Engineering Software
 
 <p align="left">
-
-<img src="https://skillicons.dev/icons?i=matlab" height="48"/>
-
-<img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/ANSYS%20HFSS-FFB000?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/LTspice-B22222?style=flat-square"/>
-
-<img src="https://img.shields.io/badge/Proteus-1E88E5?style=flat-square"/>
-
-<img src="https://skillicons.dev/icons?i=latex" height="48"/>
-
+  <img src="https://skillicons.dev/icons?i=kicad,solidworks,matlab,latex,ansys,ltspice,proteus" />
 </p>
-
 # 🏗 Featured Projects
 
 <details open>
