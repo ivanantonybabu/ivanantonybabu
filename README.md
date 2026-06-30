@@ -3,12 +3,12 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Robotics+%26+Embedded+Systems+Engineer;Artificial+Intelligence+%7C+Computer+Vision;Software+Defined+Radio+%7C+Wireless+Communication;Autonomous+Systems+%7C+UAV+Technologies;Researcher+%7C+IEEE+Author" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Robotics+%26+Embedded+Systems+Engineer;;Software+Defined+Radio+%7C+Wireless+Communication;Autonomous+Systems+%7C+UAV+Technologies;Researcher+%7C+IEEE+Author" />
 </p>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-4B0082?style=flat-square&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-4B0082?style=flat-square&logo=google-scholar&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/B.Sc-Data%20Science%20(IIT%20Madras)-5B21B6?style=flat-square&logo=google-scholar&logoColor=white"/>
 
@@ -48,7 +48,7 @@
 
 ---
 
-# 👋 About Me
+#  About Me
 
 I'm **Ivan Antony Babu**, a Robotics and Embedded Systems Engineer passionate about designing intelligent hardware-software systems that combine **Artificial Intelligence, Computer Vision, Software Defined Radio, Wireless Communication, Embedded Systems, and Autonomous Robotics**.
 
@@ -77,11 +77,9 @@ My research and engineering interests include:
 
 - Robotics Software Engineering
 - Embedded Systems Engineering
-- AI / ML Engineering
 - Computer Vision
 - Research Collaborations
 - Open Source Projects
-- Graduate Research Opportunities
 
 ---
 
@@ -90,20 +88,18 @@ My research and engineering interests include:
 ## Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,html" />
 </p>
 
 ---
 
-## Skill Set 1
+## Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,arduino,ros,matlab,latex" />
+  <img src="https://skillicons.dev/icons?i=linux,windows,bash,git,github,vscode,arduino,ros,matlab,latex,anaconda,cmake,docker,firebase,flask,md,notion,opencv,ps,raspberrypi,ubuntu" />
 </p>
 
----
 
-## Skill Set 2
 
 <p align="left">
 
@@ -137,7 +133,7 @@ Developed a low-cost indoor localization and mapping system using **Visual-Inert
 
 | Attribute | Details |
 |------------|---------|
-| **Stack** | ROS • Raspberry Pi 5 • Python • OpenCV |
+| **Stack** | ROS • Raspberry Pi 5 • SLAM |
 | **Sensors** | Camera • IMU • ToF LiDAR |
 | **Research Area** | Indoor Localization & Navigation |
 | **Status** | Completed |
