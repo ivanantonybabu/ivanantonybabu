@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=260&section=header&text=IVAN%20ANTONY%20BABU&fontSize=72&fontAlignY=38&fontColor=9A6AFF&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=260&section=header&text=IVAN%20ANTONY%20BABU&fontSize=72&fontAlignY=38&fontColor=27ADF5&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
