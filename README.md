@@ -1,221 +1,589 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=260&section=header&text=IVAN%20ANTONY BABU&fontSize=75&fontAlignY=35&theme=dark&fontColor=9A6AFF" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=260&section=header&text=IVAN%20ANTONY%20BABU&fontSize=72&fontAlignY=38&fontColor=9A6AFF&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Robotics+%26+Avionics;Software+Developer;Problem+Solver" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Robotics+%26+Embedded+Systems+Engineer;Artificial+Intelligence+%7C+Computer+Vision;Software+Defined+Radio+%7C+Wireless+Communication;Autonomous+Systems+%7C+UAV+Technologies;Researcher+%7C+IEEE+Author" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Education-CUSAT%20B.Tech%20CSE%20%7C%209.73%20SGPA-4B0082?style=flat-square&logo=read-the-docs&logoColor=white" alt="Academic Badge" />
-  <img src="https://img.shields.io/badge/Location-Kochi%2C%20India-6366F1?style=flat-square&logo=google-maps&logoColor=white" alt="Location Badge" />
+
+<img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Communication-4B0082?style=flat-square&logo=academia&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/B.Sc-Data%20Science%20(IIT%20Madras)-5B21B6?style=flat-square&logo=google-scholar&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Location-Kochi,%20Kerala-6366F1?style=flat-square&logo=googlemaps&logoColor=white"/>
+
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anona-bino-99143b383">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:anonabino@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://github.com/anona19">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+
+<a href="https://github.com/ivanantonybabu">
+<img src="https://img.shields.io/badge/GitHub-ivanantonybabu-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ivan-antony-babu">
+<img src="https://img.shields.io/badge/LinkedIn-Ivan%20Antony%20Babu-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ivanantonybabu@gmail.com">
+<img src="https://img.shields.io/badge/Email-ivanantonybabu@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ivanantonybabu.github.io/My.personal.website/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=anona19&color=9A6AFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/anona19?color=6366F1&label=Followers&style=flat-square" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/anona19?color=4F46E5&label=Stars&style=flat-square" alt="Stars" />
+
+<img src="https://komarev.com/ghpvc/?username=ivanantonybabu&label=PROFILE+VIEWS&color=9A6AFF&style=flat-square"/>
+
+<img src="https://img.shields.io/github/followers/ivanantonybabu?label=Followers&style=flat-square&color=6366F1"/>
+
+<img src="https://img.shields.io/github/stars/ivanantonybabu?affiliations=OWNER&label=Stars&style=flat-square&color=4F46E5"/>
+
 </p>
 
 ---
 
-## 2. About Section
+# 👋 About Me
 
-First-year B.Tech Computer Science student at Cochin University of Science and Technology (CUSAT) with a strong foundation in programming and an outstanding **9.73 SGPA**. Passionate about software development, data structures, and applying computational thinking to emerging technologies like autonomous robotics.
+I'm **Ivan Antony Babu**, a Robotics and Embedded Systems Engineer passionate about designing intelligent hardware-software systems that combine **Artificial Intelligence, Computer Vision, Software Defined Radio, Wireless Communication, Embedded Systems, and Autonomous Robotics**.
 
-*   **Software Development:** Building functional software systems and utilities focusing on precision and logical problem-solving.
-*   **Robotics & Autonomous Systems:** Actively exploring drone technology stacks, including ROS2, PX4, and simulation environments like Gazebo.
-*   **Hardware-Software Integration:** Transitioning edge inference dependencies (e.g., ONNX) and building resilient IoT communication layers.
+Currently pursuing
 
-> ### 🚀 Open To
-> Software Engineering Internships, Technical Documentation Roles, Open-Source Contributions, and Industry Hackathons.
+- 🎓 **B.Tech in Electronics & Communication Engineering**  
+  **Cochin University of Science and Technology (CUSAT)**
+
+- 🎓 **B.Sc. in Data Science & Applications**  
+  **Indian Institute of Technology Madras**
+
+My research and engineering interests include:
+
+- 🤖 Autonomous Robotics
+- 🚁 UAV Technologies
+- 🛰 Software Defined Radio
+- 📡 Wireless Communication
+- 👁 Computer Vision
+- 🧭 Indoor Localization & SLAM
+- 🔬 Sensor Fusion
+- 🧠 Embedded AI
 
 ---
 
-## 3. Tech Stack Section
+## 🚀 Currently Open To
 
-### 💻 Languages
+- Robotics Software Engineering
+- Embedded Systems Engineering
+- AI / ML Engineering
+- Computer Vision
+- Research Collaborations
+- Open Source Projects
+- Graduate Research Opportunities
+
+---
+
+# 💻 Tech Stack
+
+## Programming Languages
+
 <p align="left">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-</p>
 
-### 🤖 Robotics & Edge AI
-<p align="left">
-  <img src="https://img.shields.io/badge/ROS2_Jazzy-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
-  <img src="https://img.shields.io/badge/PX4_Autopilot-03599C?style=for-the-badge&logo=px4&logoColor=white" alt="PX4" />
-  <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge&logo=gazebo&logoColor=white" alt="Gazebo" />
-  <img src="https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white" alt="ONNX" />
-</p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### ⚙️ Tools & Version Control
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="MS Office" />
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 </p>
 
 ---
 
-## 4. Expertise Section
+## Robotics & Embedded
 
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| **Software Programming** | Advanced | Structuring algorithms and data logic using C and C++. |
-| **Autonomous Systems** | Intermediate | Assisting in avionics configurations, payload drop automation, and ROS2 workflows. |
-| **IoT & Networking** | Developing | Designing conceptual LoRa-based mesh networks for emergency beacons. |
+<p align="left">
+
+<img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Gazebo-FF8C00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/GNU_Radio-005CED?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+
+</p>
 
 ---
 
-## 5. Featured Projects Section
+## Development Tools
 
-<details>
-<summary><b>📈 MarkIt — Smart Academic Performance Dashboard</b></summary>
-<br />
+<p align="left">
 
-### Intelligent Performance Tracking Utility
-Built an intelligent dashboard utility designed to track multi-semester academic performance. The system mathematically automates CGPA and average calculations while generating predictive insights on the precise scores needed to hit targeted grade benchmarks.
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-| Attribute | Specification |
-| :--- | :--- |
-| **Stack** | C/C++ |
-| **Scale** | Local Academic Tool |
-| **Performance** | Instant calculation and statistical charting |
-| **Impact** | Removed manual grading arithmetic errors and streamlined academic goal-setting |
-| **Repository** | [View Source](https://github.com/anona19) |
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-#### Professional Overview
-MarkIt bridges the gap between raw grading data and actionable student objectives. By computing historical marks against future targets, it ensures academic planning is grounded in precise numerical forecasts.
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+
+</p>
+
+---
+
+## Engineering Software
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/SolidWorks-E2231A?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MATLAB-FF6F00?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/ANSYS_HFSS-FFB000?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LTspice-B22222?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Proteus-1E88E5?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
+
+</p>
+
+---
+
+# 🏗 Featured Projects
+
+<details open>
+
+<summary><b>🛰 Indoor Mapping & Navigation System using Raspberry Pi 5</b></summary>
+
+### Research Project
+
+Developed a low-cost indoor localization and mapping system using **Visual-Inertial SLAM**, **ToF LiDAR**, and **multi-sensor fusion** to generate real-time occupancy maps and QR-code based indoor navigation.
+
+| Attribute | Details |
+|------------|---------|
+| **Stack** | ROS • Raspberry Pi 5 • Python • OpenCV |
+| **Sensors** | Camera • IMU • ToF LiDAR |
+| **Research Area** | Indoor Localization & Navigation |
+| **Status** | Completed |
+| **Repository** | Coming Soon |
 
 </details>
 
-<details>
-<summary><b>🛟 Rakshak — Smart Flood Rescue System</b></summary>
-<br />
-
-### LoRa-Based Emergency Mesh Network
-Engineered the conceptual architecture for an emergency response beacon system designed to detect and relay victim locations in compromised environments.
-
-| Attribute | Specification |
-| :--- | :--- |
-| **Stack** | LoRa Networking, Systems Architecture |
-| **Scale** | Ideathon Prototype |
-| **Impact** | Architected decentralized communication flows for natural disaster response |
-| **Repository** | [View Source](https://github.com/anona19) |
-
-#### Professional Overview
-Rakshak leverages a decentralized mesh network, allowing rescue beacons to bounce signals across long distances without relying on traditional cellular infrastructure, significantly increasing survival rates during severe flood conditions.
-
-</details>
+---
 
 <details>
-<summary><b>🛸 Autonomous Payload Drop System</b></summary>
-<br />
 
-### Drone Payload Actuation Modification
-Refactored an autonomous payload repository, effectively deprecating its original hardware dependency to adapt to open standards.
+<summary><b>📡 SDR-Based Anti-Jamming Audio Communication System</b></summary>
 
-| Attribute | Specification |
-| :--- | :--- |
-| **Stack** | Git, ONNX Runtime |
-| **Scale** | Hardware-Agnostic Drone Module |
-| **Impact** | Replaced proprietary Hailo dependencies with a flexible ONNX supporting system |
-| **Repository** | [View Source](https://github.com/anona19) |
+### Software Defined Radio
 
-#### Professional Overview
-Navigated complex repository files to rip out highly specific hardware-bound inference models, successfully converting the payload actuation software into a versatile ONNX-supported environment for broader drone application.
+Built a full-duplex SDR communication platform using **GNU Radio** and **USRP B210** to study wireless interference mitigation under intentional jamming conditions.
+
+| Attribute | Details |
+|------------|---------|
+| **Stack** | GNU Radio • Python • USRP |
+| **Domain** | Wireless Communication |
+| **Focus** | Anti-Jamming & Signal Recovery |
+| **Status** | Completed |
 
 </details>
 
 ---
 
-## 6. Experience Section
+<details>
 
-### **Team Member (Documentation)** — *AROHA Drone Design & Development Club*
-**Oct 2025 – Present**
-*   Operate within the documentation division to draft technical reports and maintain rigorous project schemas.
-*   Support structural communication and coordination between distinct technical sub-teams during active hardware development cycles.
-*   Contributed to the core infrastructure that allowed the club to secure Global 15th Rank & Best Design at the Space Drone Challenge.
+<summary><b>📶 Audio-Band FSK Text Modem</b></summary>
 
-`#Technical-Documentation` `#Team-Coordination` `#Drone-Development` 
+### Digital Communication System
+
+Designed a complete audio-band FSK modem capable of transmitting text through microphones and speakers using GNU Radio.
+
+| Attribute | Details |
+|------------|---------|
+| **Stack** | GNU Radio • Python |
+| **Communication** | Audio FSK |
+| **Features** | Modulation, Demodulation, Text Recovery |
+| **Status** | Completed |
+
+</details>
 
 ---
 
-## 7. Achievements Section
+<details>
+
+<summary><b>🤖 Smart Attendance & Student Monitoring System (SAMS)</b></summary>
+
+### Embedded AI Project
+
+Built an intelligent classroom monitoring platform integrating RFID authentication with computer vision to automate attendance and estimate student engagement.
+
+| Attribute | Details |
+|------------|---------|
+| **Stack** | Raspberry Pi • ESP8266 • Flask • OpenCV |
+| **Features** | RFID Attendance • Face Detection • EAR Analysis |
+| **Domain** | Embedded Systems & IoT |
+
+</details>
+
+---
+
+<details>
+
+<summary><b>🛡 Smart Fence Intrusion Detection System</b></summary>
+
+### Embedded Security System
+
+Designed an embedded perimeter monitoring system capable of detecting intrusion events using environmental sensors and embedded controllers.
+
+| Attribute | Details |
+|------------|---------|
+| **Stack** | Embedded Systems |
+| **Application** | Smart Security |
+| **Status** | Completed |
+
+</details>
+
+---
+# 💼 Professional Experience
+
+---
+
+### **Project Intern**  
+### IIT Tirupati Navavishkar I-Hub Foundation (IITTNiF)
+
+**Jan 2026 – Apr 2026**
+
+Worked on the development of a low-cost indoor mapping and localization framework for GPS-denied environments using Visual-Inertial SLAM and multi-sensor fusion techniques.
+
+#### Responsibilities
+
+- Developed an Indoor Mapping System using ROS.
+- Integrated Camera, IMU and ToF LiDAR sensors.
+- Implemented Visual-Inertial SLAM.
+- Generated real-time occupancy maps.
+- Designed QR-based indoor navigation.
+- Optimized localization accuracy using sensor fusion.
+
+**Technologies**
+
+`ROS`
+`Python`
+`OpenCV`
+`Raspberry Pi 5`
+`Computer Vision`
+`Sensor Fusion`
+
+---
+
+### **Summer Intern**
+### Department of Electronics, CUSAT
+
+**June 2026**
+
+Completed intensive hands-on training in Software Defined Radio and wireless communication systems.
+
+#### Responsibilities
+
+- Developed GNU Radio flowgraphs.
+- Worked with RTL-SDR and Ettus USRP platforms.
+- Implemented digital communication systems.
+- Performed spectrum sensing experiments.
+- Designed wireless transmission and reception chains.
+
+**Technologies**
+
+`GNU Radio`
+
+`RTL-SDR`
+
+`USRP`
+
+`Python`
+
+`Wireless Communication`
+
+---
+
+### **Summer Intern**
+### Kerala State Electronics Development Corporation (KELTRON)
+
+**May 2024**
+
+Designed and developed a Library Management System using Python with SQL database integration.
+
+#### Responsibilities
+
+- GUI Development
+- SQL Database Integration
+- Inventory Management
+- CRUD Operations
+
+**Technologies**
+
+`Python`
+
+`SQL`
+
+`Tkinter`
+
+---
+
+# 🚁 Leadership Experience
+
+---
+
+### **Team Lead**
+### AROHA Drone Club
+
+**March 2025 – Present**
+
+Leading the autonomous drone development team responsible for UAV design, avionics integration, embedded systems development, and national & international drone competitions.
+
+#### Responsibilities
+
+- Team Management
+- Technical Mentoring
+- Electronics Integration
+- Project Planning
+- Competition Preparation
+- UAV Development
+
+---
+
+### **Founding Chair**
+### IEEE Aerospace & Electronic Systems Society (AESS)
+
+**March 2026 – Present**
+
+- Established the IEEE AESS Student Chapter at CUSAT.
+- Organized technical workshops and aerospace events.
+- Promoting research in avionics and autonomous systems.
+
+---
+
+### **Chair**
+### IEEE Industry Applications Society (IAS)
+
+**Feb 2025 – Mar 2026**
+
+- Organized technical workshops.
+- Conducted PCB Assembly sessions.
+- Coordinated Drone Development Bootcamps.
+- Led multiple IEEE technical initiatives.
+
+---
+
+# 📄 Publications
+
+---
+
+### **IEEE Conference Publication**
+
+**A Low-Cost ToF LiDAR-Assisted Visual–Inertial SLAM System Using Multi-Sensor Fusion for Indoor Localization on Raspberry Pi 5**
+
+**International Conference on Trends in Engineering Systems and Technologies (ICTEST 2026)**
+
+**Research Areas**
+
+- Visual-Inertial SLAM
+- Indoor Localization
+- Sensor Fusion
+- Computer Vision
+- Robotics
+- Autonomous Navigation
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
 | Recognition | Details |
-| :--- | :--- |
-| **🥇 1st Place — Ideathon** | Organized by IEEE Circuits and Systems Society SBC at IEEE Robotics & Automation Society, CUSAT. |
-| **🥇 1st Place — Ignite Ideas** | Achieved apex position during the ACES Knowledge Festival 2026 (VIBHAVA). |
-| **🥈 2nd Place — Ideathon** | Awarded by the Society of Construction Engineering (SOCE) & Equal Opportunities Cell, CUSAT. |
-| **🌍 Global 15th Rank & Best Design** | Awarded at the prestigious Space Drone Challenge as a vital unit of Team AROHA. |
+|:------------|:--------|
+| 🌍 **ISDC 2026** | **World Rank 15 • Kerala Rank 1** |
+| 🚁 **SAE AeroTHON 2025** | **AIR 9 • Kerala Rank 1** |
+| 📄 **IEEE Publication** | ICTEST 2026 |
+| 🏅 **IIT Tirupati Fellowship** | STAR-PNT Fellowship Awardee |
+| 🎓 **NPTEL** | Top 1% - Computer Architecture & Organization |
+| 💡 **IDEATHON** | 3rd Place - AI Powered Drone Farming Solution |
+| 🏆 **NSO** | School Topper (2020 & 2022) |
 
 </div>
 
 ---
 
-## 8. GitHub Analytics Section
+# 📜 Certifications
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anona19&show_icons=true&theme=tokyonight&title_color=9A6AFF&icon_color=6366F1&text_color=99A3A4&bg_color=0D0B14&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anona19&theme=tokyonight&fire=9A6AFF&ring=6366F1&sideNums=99A3A4&currStreakNum=A855F7&background=0D0B14&hide_border=true" width="48%" alt="Streak Stats" />
-</p>
+### NPTEL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anona19&layout=compact&theme=tokyonight&title_color=9A6AFF&icon_color=6366F1&text_color=99A3A4&bg_color=0D0B14&hide_border=true" width="60%" alt="Top Languages" />
-</p>
+<p>
 
----
+<img src="https://img.shields.io/badge/NPTEL-Computer%20Architecture%20%26%20Organization-blue?style=for-the-badge"/>
 
-## 9. GitHub Trophies Section
+<img src="https://img.shields.io/badge/Top%201%25-NPTEL-success?style=for-the-badge"/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=anona19&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-bg=false&no-frame=true" width="100%" alt="GitHub Trophies" />
-  </a>
 </p>
 
 ---
 
-## 10. Contribution Activity Section
+### MATLAB
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anona19&theme=tokyonight&bg_color=0D0B14&color=9A6AFF&line=6366F1&point=A855F7&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+<p>
+
+<img src="https://img.shields.io/badge/MATLAB-Onramp-orange?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 11. Contribution Snake Section
+### AWS
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anona19/anona19/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%" />
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Python-yellow?style=for-the-badge&logo=amazonaws"/>
+
 </p>
 
 ---
 
-## 12. Current Focus Section
+### Maven Silicon
+
+<p>
+
+<img src="https://img.shields.io/badge/VLSI-SoC%20Design-red?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ivanantonybabu&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ivanantonybabu&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanantonybabu&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏅 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ivanantonybabu&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivanantonybabu&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+> **Note:** Enable this animation using the **Platane/snk GitHub Action** in your profile repository.
+
+---
+
+# 🎯 Current Focus
 
 ```yaml
 learning:
-  - Advanced Data Structures and Algorithms in C/C++
-  - ROS2 Jazzy and PX4 integration dynamics
+  - Advanced Computer Vision
+  - Autonomous Navigation
+  - Multi-Sensor Fusion
+  - Edge AI
+  - Advanced Software Defined Radio
+
 building:
-  - Rakshak emergency mesh network infrastructure
-exploring:
-  - ONNX runtime integrations for autonomous edge robotics
+  - Indoor Mapping Systems
+  - Autonomous UAV Platforms
+  - SDR Communication Systems
+  - Embedded AI Applications
+
+researching:
+  - Visual-Inertial SLAM
+  - Indoor Localization
+  - Wireless Communication
+  - Autonomous Robotics
+
 open_to:
-  - Software engineering internships and hands-on team projects
+  - Robotics Software Engineering
+  - Embedded Systems
+  - AI Research
+  - Computer Vision
+  - Open Source Collaboration
+```
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ivanantonybabu@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/ivan-antony-babu">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/ivanantonybabu">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://ivanantonybabu.github.io/My.personal.website/">
+
+<img src="https://img.shields.io/badge/Portfolio-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### *"Building intelligent systems that bridge robotics, embedded computing, AI, and wireless communication."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=120&section=footer"/>
+
+</div>
