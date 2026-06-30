@@ -87,30 +87,67 @@ My research and engineering interests include:
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java"/>
+<img src="https://skillicons.dev/icons?i=py,cpp,c,java"/>
 </p>
 
-### Development
+---
+
+### Operating Systems
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode,bash"/>
+<img src="https://skillicons.dev/icons?i=linux,windows,bash"/>
 </p>
+
+---
+
+### AI & Computer Vision
+
+<p>
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow"/>
+</p>
+
+---
 
 ### Robotics & Embedded
 
 <p>
-<img src="https://skillicons.dev/icons?i=arduino,ros,gazebo,gnuradio"/>
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,ros"/>
 </p>
+
+---
+
+### Development Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,mysql"/>
+</p>
+
+---
 
 ### Engineering Software
 
 <p>
-<img src="https://skillicons.dev/icons?i=kicad,solidworks,matlab,latex,ansys,ltspice,proteus"/>
-</p>
 
+<img height="45" src="https://img.shields.io/badge/Gazebo-F28C28?style=flat-square"/>
+
+<img height="45" src="https://img.shields.io/badge/GNU%20Radio-005CED?style=flat-square"/>
+
+<img height="45" src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
+
+<img height="45" src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
+
+<img height="45" src="https://img.shields.io/badge/ANSYS%20HFSS-FFB000?style=flat-square"/>
+
+<img height="45" src="https://img.shields.io/badge/LTspice-B22222?style=flat-square"/>
+
+<img height="45" src="https://img.shields.io/badge/Proteus-1E88E5?style=flat-square"/>
+
+<img src="https://skillicons.dev/icons?i=matlab,latex"/>
+
+</p>
 
 # 🏗 Featured Projects
 
