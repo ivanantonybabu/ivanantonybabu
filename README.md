@@ -282,7 +282,6 @@ Designed an embedded perimeter monitoring system capable of detecting intrusion 
 
 </p>
 
-> **Note:** Enable this animation using the **Platane/snk GitHub Action** in your profile repository.
 
 
 
