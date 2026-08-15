@@ -82,6 +82,16 @@ My research and engineering interests include:
 - Open Source Projects
 
 ---
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+
+
 
 # 💻 Tech Stack
 
@@ -273,14 +283,6 @@ Designed an embedded perimeter monitoring system capable of detecting intrusion 
 </p>
 
 ---
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 
 
