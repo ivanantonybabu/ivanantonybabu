@@ -193,7 +193,7 @@ Designed a complete audio-band FSK modem capable of transmitting text through mi
 
 <details>
 
-<summary><b>🤖 Smart Attendance & Student Monitoring System (SAMS)</b></summary>
+<summary><b>🤖 Smart Attendance & Engagement Monitoring System (SAMS)</b></summary>
 
 ### Embedded AI Project
 
