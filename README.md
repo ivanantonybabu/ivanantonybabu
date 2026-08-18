@@ -69,7 +69,7 @@ My research and engineering interests include:
 - 👁 Computer Vision
 - 🧭 Indoor Localization & SLAM
 - 🔬 Sensor Fusion
-- 🧠 Embedded AI
+- 🧠 Embedded Systems
 
 ---
 
