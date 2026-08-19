@@ -67,7 +67,7 @@ My research and engineering interests include:
 - 🛰 Software Defined Radio
 - 📡 Wireless Communication
 - 👁 Computer Vision
-- 🧭 Indoor Localization & SLAM
+- 🧭 SLAM
 - 🔬 Sensor Fusion
 - 🧠 Embedded Systems
 
