@@ -76,7 +76,7 @@ My research and engineering interests include:
 ## 🚀 Currently Open To
 
 - Robotics Software Engineering
-- Embedded Systems Engineering
+- Embedded Systems 
 - Computer Vision
 - Research Collaborations
 - Open Source Projects
