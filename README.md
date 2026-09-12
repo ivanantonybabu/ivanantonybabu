@@ -195,7 +195,7 @@ Designed a complete audio-band FSK modem capable of transmitting text through mi
 
 <summary><b>🤖 Smart Attendance & Engagement Monitoring System (SAMS)</b></summary>
 
-### Embedded AI Project
+### Embedded Project
 
 Built an intelligent classroom monitoring platform integrating RFID authentication with computer vision to automate attendance and estimate student engagement.
 
