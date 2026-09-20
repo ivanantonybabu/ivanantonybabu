@@ -79,7 +79,6 @@ My research and engineering interests include:
 - Embedded Systems 
 - Computer Vision
 - Research Collaborations
-- Open Source Projects
 
 ---
 # 🐍 Contribution Snake
