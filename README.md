@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=220&section=header&text=IVAN%20ANTONY%20BABU&fontSize=64&fontAlignY=38&fontColor=27ADF5&animation=fadeIn" width="100%"/>
 </p>
+
 <h3 align="center">
   Robotics & Embedded Systems Engineer
 </h3>
@@ -35,24 +36,17 @@
 
 ## 👋 About Me
 
-I'm **Ivan Antony Babu**, an Electronics & Communication Engineering student and Data Science student focused on building **intelligent hardware-software systems**.
+I'm **Ivan Antony Babu**, an Electronics & Communication Engineering and Data Science student focused on building **intelligent hardware-software systems**.
 
 🎓 **B.Tech ECE — CUSAT**
+🎓 **B.Sc. Data Science — IIT Madras**
 
-🎓 **B.Sc. Data Science & Applications — IIT Madras**
+### 🔬 Interests
 
-### 🔬 Areas of Interest
+`🤖 Robotics` · `🚁 UAVs` · `📡 SDR` · `📶 Wireless`
+`👁 Computer Vision` · `🧭 SLAM` · `🔬 Sensor Fusion` · `⚡ Embedded Systems`
 
-`🤖 Robotics`
-`🚁 UAVs`
-`📡 SDR`
-`📶 Wireless`
-`👁 Computer Vision`
-`🧭 SLAM`
-`🔬 Sensor Fusion`
-`⚡ Embedded Systems`
-
-Currently exploring **autonomous systems, robotics, embedded AI, wireless communication and intelligent sensing**.
+Currently exploring **autonomous systems, embedded AI, wireless communication and intelligent sensing**.
 
 ---
 
@@ -81,27 +75,23 @@ Currently exploring **autonomous systems, robotics, embedded AI, wireless commun
 
 ### 🧭 Indoor Mapping & Navigation
 
-**Raspberry Pi 5 • ROS 2 • Visual-Inertial SLAM • ToF LiDAR**
-
-Low-cost indoor localization and mapping system using **multi-sensor fusion**, occupancy-grid mapping and QR-based navigation.
+`Raspberry Pi 5` · `ROS 2` · `SLAM` · `ToF LiDAR`
 
 ### 📡 Software Defined Radio
 
-**GNU Radio • USRP • Python**
-
-Developing digital communication systems including **FSK, BPSK/QPSK, audio communication, video transmission and SDR-based wireless experiments**.
+`GNU Radio` · `USRP` · `Python` · `Digital Communications`
 
 ### 🚁 Autonomous UAV Systems
 
-**PX4 • ROS 2 • Computer Vision • Embedded Systems**
+`PX4` · `ROS 2` · `Computer Vision` · `Embedded Systems`
 
-Designing and developing autonomous drone systems through **AROHA Drone Club**, focusing on UAV software, avionics, navigation and competition platforms.
+### 🤖 Smart Attendance & Engagement
 
-### 🤖 Smart Attendance & Engagement Monitoring
+`Raspberry Pi` · `ESP8266` · `OpenCV` · `RFID`
 
-**Raspberry Pi • ESP8266 • OpenCV • Flask • RFID**
+### 🛡 Smart Fence Intrusion Detection
 
-Computer-vision and RFID-based classroom monitoring system combining **automated attendance with engagement estimation**.
+`Embedded Systems` · `Sensors` · `IoT`
 
 </td>
 
@@ -110,18 +100,30 @@ Computer-vision and RFID-based classroom monitoring system combining **automated
 
 ---
 
-## 📊 GitHub Analytics
-
 <table>
 <tr>
 
-<td width="50%" align="center">
+<!-- GITHUB ANALYTICS -->
+
+<td width="50%" valign="top" align="center">
+
+## 📊 GitHub Analytics
 
 <img src="https://github-readme-stats.vercel.app/api?username=ivanantonybabu&show_icons=true&theme=tokyonight&hide_border=true" width="100%"/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanantonybabu&layout=compact&theme=tokyonight&hide_border=true" width="85%"/>
+
 </td>
 
-<td width="50%" align="center">
+<!-- SNAKE -->
+
+<td width="50%" valign="top" align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ivanantonybabu&theme=tokyonight&hide_border=true" width="100%"/>
 
@@ -130,16 +132,12 @@ Computer-vision and RFID-based classroom monitoring system combining **automated
 </tr>
 </table>
 
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanantonybabu&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg"/>
+  <i>Building intelligent systems at the intersection of robotics, embedded computing, AI & wireless communication.</i>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=100&section=footer"/>
+</p>
