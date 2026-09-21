@@ -87,22 +87,7 @@ Computer-vision and RFID-based classroom monitoring system combining **automated
 
 ---
 
-## 🏆 Highlights
 
-<p align="center">
-
-| 🏅 Achievement               | Result                                            |
-| ---------------------------- | ------------------------------------------------- |
-| 🚁 **ISDC 2026**             | 🌍 World Rank **15** · Kerala Rank **1**          |
-| 🛩️ **SAE AeroTHON 2025**    | 🇮🇳 All India Rank **9**                         |
-| 📄 **ICTEST 2026**           | IEEE Research Publication                         |
-| 🔬 **IIT Tirupati STAR-PNT** | Fellowship Awardee                                |
-| 🎓 **NPTEL**                 | Top **1%** — Computer Architecture & Organization |
-| 💡 **IDEATHON**              | 3rd Place — AI Drone Farming                      |
-
-</p>
-
----
 
 ## 📊 GitHub
 
@@ -125,28 +110,3 @@ Computer-vision and RFID-based classroom monitoring system combining **automated
 
 ---
 
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/ivan-antony-babu">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://ivanantonybabu.github.io/My.personal.website/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-6D28D9?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:ivanantonybabu@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-  <i>Building intelligent systems at the intersection of robotics, embedded computing, AI & wireless communication.</i>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=100&section=footer"/>
-</p>
