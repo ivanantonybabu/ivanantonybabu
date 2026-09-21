@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=220&section=header&text=IVAN%20ANTONY%20BABU&fontSize=64&fontAlignY=38&fontColor=27ADF5&animation=fadeIn" width="100%"/>
 </p>
-
 <h3 align="center">
   Robotics & Embedded Systems Engineer
 </h3>
