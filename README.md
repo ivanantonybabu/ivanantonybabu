@@ -63,7 +63,7 @@ Exploring **autonomous systems, embedded AI, wireless communication and intellig
 ### ⚡ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,linux,git,github,Django,arduino,ros,docker,opencv,raspberrypi,matlab,cmake,flask,latex,vscode&perline=7"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,linux,git,github,arduino,ros,docker,opencv,raspberrypi,matlab,cmake,flask,latex,vscode&perline=7"/>
 </p>
 
 <p align="center">
@@ -72,6 +72,8 @@ Exploring **autonomous systems, embedded AI, wireless communication and intellig
   <img src="https://img.shields.io/badge/PX4-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Django-FFB000?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Adafruit-FFB000?style=flat-square"/>
   <img src="https://img.shields.io/badge/HFSS-FFB000?style=flat-square"/>
 </p>
 
