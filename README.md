@@ -58,13 +58,13 @@ Exploring *autonomous systems, embedded AI, wireless communication and intellige
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Django-FFB000?style=flat-square"/>
   <img src="https://img.shields.io/badge/GNU%20Radio-005CED?style=flat-square"/>
   <img src="https://img.shields.io/badge/Gazebo-FF8C00?style=flat-square"/>
   <img src="https://img.shields.io/badge/PX4-111111?style=flat-square"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Django-FFB000?style=flat-square"/>
   <img src="https://img.shields.io/badge/Adafruit-FFB000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
   <img src="https://img.shields.io/badge/HFSS-FFB000?style=flat-square"/>
 </p>
 
