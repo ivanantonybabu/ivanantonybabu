@@ -47,6 +47,13 @@ I'm *Ivan Antony Babu, an ECE & Data Science student focused on **intelligent ha
 
 Exploring *autonomous systems, embedded AI, wireless communication and intelligent sensing*.
 
+### 🔥 GitHub Streak
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=ivanantonybabu&theme=tokyonight&hide_border=true"
+  width="90%"
+/>
+
 </td>
 
 <td width="50%" valign="top">
@@ -64,7 +71,7 @@ Exploring *autonomous systems, embedded AI, wireless communication and intellige
   <img src="https://img.shields.io/badge/PX4-111111?style=flat-square"/>
   <img src="https://img.shields.io/badge/SolidWorks-E2231A?style=flat-square"/>
   <img src="https://img.shields.io/badge/Adafruit-FFB000?style=flat-square"/>
-    <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=flat-square"/>
   <img src="https://img.shields.io/badge/HFSS-FFB000?style=flat-square"/>
 </p>
 
@@ -78,53 +85,29 @@ Exploring *autonomous systems, embedded AI, wireless communication and intellige
   />
 </p>
 
+</td>
+
 </tr>
 </table>
 
 ---
 
-<!-- ===================== GITHUB ACTIVITY ===================== -->
-
-<table>
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-### 🔥 GitHub Streak
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=ivanantonybabu&theme=tokyonight&hide_border=true"
-  width="90%"
-/>
-
-</td>
-
-<td width="50%" valign="top" align="center">
+<!-- ===================== GITHUB CONTRIBUTION SNAKE ===================== -->
 
 ### 🐍 Contribution Snake
 
-<img
-  src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg"
-  width="90%"
-/>
-
-</td>
-
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ivanantonybabu/ivanantonybabu/output/github-contribution-grid-snake-dark.svg"
+    width="90%"
+  />
+</p>
 
 ---
 
 <p align="center">
-  <sub>
-    Building intelligent systems at the intersection of robotics,
-    embedded computing, AI & wireless communication.
-  </sub>
-</p>
-
-<p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=12072B&secondaryColor=4B0082&height=55&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:02030A,30:081B33,55:00E5FF,78:8B2CFF,100:FF00D4&height=55&section=footer"
     width="90%"
   />
 </p>
