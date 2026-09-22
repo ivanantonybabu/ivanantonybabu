@@ -68,18 +68,15 @@ Exploring *autonomous systems, embedded AI, wireless communication and intellige
   <img src="https://img.shields.io/badge/HFSS-FFB000?style=flat-square"/>
 </p>
 
-
 ### 💻 Languages Used
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanantonybabu&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
-    width="95%"
+    src="./profile/top-langs.svg"
+    width="85%"
     alt="Most Used Languages"
   />
 </p>
-</td>
-</td>
 
 </tr>
 </table>
