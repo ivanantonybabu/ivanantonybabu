@@ -73,11 +73,11 @@ Exploring *autonomous systems, embedded AI, wireless communication and intellige
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanantonybabu&layout=compact&langs_count=12&theme=tokyonight&hide_border=true&title_color=27ADF5&text_color=A855F7&bg_color=0D1117"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanantonybabu&layout=compact&langs_count=10&bg_color=0D1117&title_color=27ADF5&text_color=A855F7&icon_color=27ADF5&border_color=4B0082&hide_border=true"
     width="100%"
+    alt="Most Used Languages"
   />
 </p>
-
 </td>
 </td>
 
