@@ -34,7 +34,7 @@
 
 ### 👋 About Me
 
-I'm *Ivan Antony Babu, an ECE & Data Science student focused on **intelligent hardware-software systems*.
+I'm Ivan Antony Babu, an ECE & Data Science student focused on *intelligent hardware-software systems*.
 
 🎓 *B.Tech ECE — CUSAT*  
 🎓 *B.Sc. Data Science — IIT Madras*
