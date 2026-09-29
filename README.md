@@ -45,7 +45,6 @@ I'm Ivan Antony Babu, an ECE & Data Science student focused on *intelligent hard
 📶 Wireless · 👁️ Computer Vision  
 🧭 SLAM · 🔬 Sensor Fusion · ⚡ Embedded
 
-Exploring *autonomous systems, embedded , wireless communication and intelligent sensing*.
 
 ### 🔥 GitHub Streak
 
